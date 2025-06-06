@@ -55,7 +55,7 @@ export default function Home() {
     },
     {
       id: 3,
-      name: "Emma Davis",
+      name: "Emma DaviDson",
       role: "Photography Lover",
       image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&auto=format&fit=crop&q=60",
       text: "Perfect for capturing stunning moments. The guides knew all the best photo spots!"
