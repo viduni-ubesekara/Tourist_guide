@@ -41,7 +41,7 @@ export default function Home() {
   const testimonials = [
     {
       id: 1,
-      name: "Sarah Johnson",
+      name: "Sarah John",
       role: "Travel Enthusiast",
       image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=60",
       text: "The best travel experience I've ever had! The team made everything seamless and unforgettable."
