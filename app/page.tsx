@@ -48,7 +48,7 @@ export default function Home() {
     },
     {
       id: 2,
-      name: "Michael Che",
+      name: "Michael jackson",
       role: "Adventure Seeker",
       image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=60",
       text: "Amazing destinations and professional service. Can't wait to book my next adventure!"
