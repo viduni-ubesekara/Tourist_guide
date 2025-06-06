@@ -22,7 +22,7 @@ export default function Home() {
     },
     {
       id: 2,
-      title: "Paris Romance",
+      title: "Paris ",
       description: "Discover the city of love, art, and fashion in the heart of France.",
       image: "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=800&auto=format&fit=crop&q=60",
       price: "From $1,299",
