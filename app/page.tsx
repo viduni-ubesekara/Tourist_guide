@@ -30,7 +30,7 @@ export default function Home() {
     },
     {
       id: 3,
-      title: "Tokyo ",
+      title: "japan ",
       description: "Immerse yourself in the unique blend of traditional and modern Japanese culture.",
       image: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800&auto=format&fit=crop&q=60",
       price: "From $1,499",
