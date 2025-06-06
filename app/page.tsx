@@ -14,7 +14,7 @@ export default function Home() {
   const destinations = [
     {
       id: 1,
-      title: "Bali Paradise",
+      title: "Bali ",
       description: "Experience the perfect blend of culture, beaches, and luxury in Indonesia's most famous island.",
       image: "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800&auto=format&fit=crop&q=60",
       price: "From $899",
